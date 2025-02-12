@@ -6,4 +6,4 @@ Dynamic Resizing based on load factor,
 Bucket-Based Storage for key-value pairs,
 JUnit Testing for validation
 
-The implementation must be from scratch, without using Java’s built-in Hashtable
+The implementation must be from scratch, without using Java’s built-in Hashtable 
